@@ -73,7 +73,7 @@ export default {
 }
 
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #0066FF;
     color: white;
 }
 </style>
